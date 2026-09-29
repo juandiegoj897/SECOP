@@ -1,0 +1,23 @@
+﻿columna,tipo_de_dato,significado,fuente
+id_del_proceso,string[python],Identificador del proceso de contratación.,SECOP II - Procesos de Contratación
+id_del_portafolio,object,Identificador del portafolio asociado al proceso y utilizado como llave para relacionar las dos fuentes.,SECOP II - Procesos de Contratación
+entidad,object,Nombre de la entidad que publica el proceso de contratación.,SECOP II - Procesos de Contratación
+departamento_entidad,object,Departamento donde está registrada la entidad contratante.,SECOP II - Procesos de Contratación
+ciudad_entidad,object,Ciudad donde está registrada la entidad contratante.,SECOP II - Procesos de Contratación
+fecha_de_publicacion_del,object,Fecha de publicación del proceso de contratación.,SECOP II - Procesos de Contratación
+modalidad_de_contratacion_proceso,object,Modalidad mediante la cual se desarrolla el proceso de contratación.,SECOP II - Procesos de Contratación
+tipo_de_contrato_proceso,object,Tipo de contrato registrado en el proceso.,SECOP II - Procesos de Contratación
+precio_base,object,Valor base registrado para el proceso de contratación.,SECOP II - Procesos de Contratación
+valor_total_adjudicacion,object,Valor total adjudicado asociado al proceso.,SECOP II - Procesos de Contratación
+estado_del_procedimiento,object,Estado registrado del procedimiento de contratación.,SECOP II - Procesos de Contratación
+proceso_de_compra,string[python],Identificador del proceso de compra asociado al contrato. Se utiliza como contraparte de la llave de cruce.,SECOP II - Contratos Electrónicos
+id_contrato,object,Identificador del contrato electrónico.,SECOP II - Contratos Electrónicos
+nombre_entidad,object,Nombre de la entidad asociada al contrato.,SECOP II - Contratos Electrónicos
+fecha_de_firma,object,Fecha registrada de firma del contrato.,SECOP II - Contratos Electrónicos
+fecha_de_inicio_del_contrato,object,Fecha registrada de inicio del contrato.,SECOP II - Contratos Electrónicos
+fecha_de_fin_del_contrato,object,Fecha registrada de finalización del contrato.,SECOP II - Contratos Electrónicos
+modalidad_de_contratacion_contrato,object,Modalidad de contratación registrada en el contrato.,SECOP II - Contratos Electrónicos
+tipo_de_contrato_contrato,object,Tipo de contrato registrado en la fuente de contratos.,SECOP II - Contratos Electrónicos
+proveedor_adjudicado,object,Proveedor al que fue adjudicado el contrato.,SECOP II - Contratos Electrónicos
+valor_del_contrato,object,Valor registrado del contrato.,SECOP II - Contratos Electrónicos
+estado_contrato,object,Estado registrado del contrato.,SECOP II - Contratos Electrónicos

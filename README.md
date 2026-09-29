@@ -2,9 +2,15 @@
 
 # Problema
 
-Analizar los patrones y posibles anomalías en la contratación pública de Pereira registrada en SECOP II, considerando los montos contratados, las modalidades de contratación y la concentración de proveedores.
+¿Qué patrones y posibles anomalías estadísticas se presentan en la contratación pública de Pereira registrada en SECOP II (montos, modalidades y concentración de proveedores)?
+
+Esta información permitirá a la Oficina de Control Interno de la Alcaldía de Pereira pasar de revisiones aleatorias posteriores a una priorización preventiva y focalizada de auditorías especiales sobre los contratos que presenten montos atípicos o proveedores hiperconcentrados antes de su liquidación.
 
 # Integrantes
 
 Emily Manrique
 Juan Diego Jaramillo
+
+# Link google colab
+
+https://colab.research.google.com/drive/1d1YRZVO8Sf6vTQBKJe69CQsk5S_CsZDr?usp=sharing
