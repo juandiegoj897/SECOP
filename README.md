@@ -13,4 +13,4 @@ Juan Diego Jaramillo
 
 # Link google colab
 
-https://colab.research.google.com/drive/1d1YRZVO8Sf6vTQBKJe69CQsk5S_CsZDr?usp=sharing
+https://colab.research.google.com/drive/1TLKzX42Pg3TQC0H5CScUTeqt-HCzue3K?usp=sharing
